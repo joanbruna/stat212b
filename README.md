@@ -8,13 +8,24 @@ Syllabus
   Variability models (deformation model, stochastic model). 
   Scattering
   Extensions ( recent arvix paper ) Group Formalism 
-  Supervised Learning
+  Supervised Learning: classification. 
+  Properties of CNN representations: invertibility? stability? invariance. 
+  covariance/invariance: capsules and related models?
+  Connections with other models: dictionary learning, LISTA
+  Random Forests
+  Other tasks: localization, regression. Embeddings (DrLim) 
   
-  
-  
+  Extensions to non-euclidean domains?
+  Dynamical systems: RNNs and optimal control. 
+ 
   
 2nd part: Deep Unsupervised Learning
-
+   Autoencoders (standard, denoising, contractive, etc etc)
+   Variational Autoencoders
+   Adversarial Generative Networks
+   Maximum Entropy Distributions
+   Open Problems
+   
 
 3rd part: Miscellaneous Topics
   Non-convex optimization theory for deep convolutional networks (Rene, Yann, Ganguli)
