@@ -3,7 +3,7 @@ Topics Course on Deep Learning for Spring 2016
 
 Syllabus
 
-1st part: Convolutional Neural Networks
+## 1st part: Convolutional Neural Networks
   Invariance, stability.
   Variability models (deformation model, stochastic model). 
   Scattering
