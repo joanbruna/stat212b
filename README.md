@@ -13,7 +13,8 @@ Topics Course on Deep Learning for Spring 2016
   - Properties of CNN representations: invertibility? stability? invariance. 
   - covariance/invariance: capsules and related models
   - Connections with other models: dictionary learning, LISTA, Random Forests
-  - Other tasks: localization, regression. Embeddings (DrLim), inverse problems 
+  - Other tasks: localization, regression. 
+  - Embeddings (DrLim), inverse problems 
   - Extensions to non-euclidean domains?
   - Dynamical systems: RNNs and optimal control. 
   - Guest Lecture??
@@ -28,54 +29,59 @@ Topics Course on Deep Learning for Spring 2016
 
 ### 3rd part: Miscellaneous Topics
 - Non-convex optimization theory for deep networks (Rene, Yann, Ganguli)
+- Stochastic Optimization
 - Attention and Memory Models ( Cho, Weston, NTM, applications ) 
   
 
 
-##Schedule
+## Schedule
 
 Lec1 Intro and Logistics
 
-Lec2
+Lec2 Representations for Recognition : stability, variability. 
+ Kernel approaches / Feature extraction. Properties. 
+ 
+Lec3 Convnets / Scattering
 
-Lec3
+Lec4 Scattering Properties
 
-Lec4
+Lec5 Further Scattering 
 
-Lec5
+Lec6 Supervised Learning: classfication. Properties of learnt representations
 
-Lec6
+Lec7 Properties of learnt representations. Covariance and Invariance.
+     Estimation properties: above generalization error. Redundancy in parameter space.
 
-Lec7
+Lec8 Connections with other models (DL, Lista, Random Forests, CART)
 
-Lec8
+Lec9 Representations of stationary processes. Properties. 
 
-Lec9
+Lec10 Other high level tasks: localization, regression, embedding, inverse problems. 
 
-Lec10
+Lec11 Extensions to non-Euclidean domain. Sequential Data RNNs. 
 
-Lec11
+Lec12 Guest Lecture? ( O. Vinyals? ) 
 
-Lec12
+Lec13 Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Curse of dimensionality
 
-Lec13
+Lec14 Variational Autoencoders
 
-Lec14
+Lec15 Adversarial Generative Networks
 
-Lec15
+Lec16 Maximum Entropy Distributions
 
-Lec16
+Lec17 Self-supervised models (analogies, video prediction, text, word2vec). 
 
-Lec17
+Lec18 Guest Lecture? 
 
-Lec18
+Lec19 Non-convex Optimization: parameter redundancy, spin-glass, optimiality certificates. stability
 
-Lec19
+Lec20 Stochastic Optimization
 
-Lec20
+Lec21 Reasoning, Attention and Memory: New trends of the field and challenges. 
+      limits of sequential representations (need for attention and memory). 
+      modern enhancements (NTM, Memnets, Stack/RNNs, etc.)
 
-Lec21
-
-Lec22
+Lec22 Applications and Open Problems
 
 
