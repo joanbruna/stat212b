@@ -60,7 +60,7 @@ Lec10 Other high level tasks: localization, regression, embedding, inverse probl
 
 Lec11 Extensions to non-Euclidean domain. Sequential Data RNNs. 
 
-Lec12 Guest Lecture? ( O. Vinyals? ) 
+Lec12 Guest Lecture ( W. Zaremba ) 
 
 Lec13 Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Curse of dimensionality
 
@@ -72,7 +72,7 @@ Lec16 Maximum Entropy Distributions
 
 Lec17 Self-supervised models (analogies, video prediction, text, word2vec). 
 
-Lec18 Guest Lecture? 
+Lec18 Guest Lecture ( I. Goodfellow ) 
 
 Lec19 Non-convex Optimization: parameter redundancy, spin-glass, optimiality certificates. stability
 
