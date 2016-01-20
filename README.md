@@ -62,7 +62,7 @@ Lec10 Feb 18: Other high level tasks: localization, regression, embedding, inver
 
 Lec11 Feb 23: Extensions to non-Euclidean domain. Sequential Data RNNs. 
 
-Lec12 Feb 25: Guest Lecture ( W. Zaremba ) 
+Lec12 Feb 25: Guest Lecture ( W. Zaremba, OpenAI ) 
 
 Lec13 Mar 1: Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Curse of dimensionality
 
@@ -74,7 +74,7 @@ Lec16 Mar 10: Maximum Entropy Distributions
 
 Lec17 Mar 29: Self-supervised models (analogies, video prediction, text, word2vec). 
 
-Lec18 Mar 31: Guest Lecture ( I. Goodfellow ) 
+Lec18 Mar 31: Guest Lecture ( I. Goodfellow, Google Brain ) 
 
 Lec19 Apr 5: Non-convex Optimization: parameter redundancy, spin-glass, optimiality certificates. stability
 
@@ -86,6 +86,6 @@ Lec21 Apr 14: Reasoning, Attention and Memory: New trends of the field and chall
       limits of sequential representations (need for attention and memory). 
       modern enhancements (NTM, Memnets, Stack/RNNs, etc.)
 
-Lec22 Apr 19: Guest Lecture (TBA)
+Lec22 Apr 19: Guest Lecture (Y. Dauphin, Facebook AI Research)
 
 Lec23-25 Oral Presentations
