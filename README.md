@@ -27,7 +27,7 @@ UC Berkeley, Statistics Department
  - Adversarial Generative Networks
  - Maximum Entropy Distributions
  - Open Problems
- - Guest Lecture: Ian GoodFellow (Google)
+ - Guest Lecture: Ian Goodfellow (Google)
 
 ### 3rd part: Miscellaneous Topics
 - Non-convex optimization theory for deep networks 
