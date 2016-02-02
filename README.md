@@ -9,30 +9,31 @@ UC Berkeley, Statistics Department
   - Invariance, stability.
   - Variability models (deformation model, stochastic model). 
   - Scattering
-  - Extensions ( recent arvix paper ) 
+  - Extensions 
   - Group Formalism 
   - Supervised Learning: classification. 
-  - Properties of CNN representations: invertibility? stability? invariance. 
-  - covariance/invariance: capsules and related models
-  - Connections with other models: dictionary learning, LISTA, Random Forests
+  - Properties of CNN representations: invertibility, stability, invariance. 
+  - covariance/invariance: capsules and related models.
+  - Connections with other models: dictionary learning, LISTA, Random Forests.
   - Other tasks: localization, regression. 
   - Embeddings (DrLim), inverse problems 
-  - Extensions to non-euclidean domains?
+  - Extensions to non-euclidean domains.
   - Dynamical systems: RNNs and optimal control. 
-  - Guest Lecture??
+  - Guest Lecture: Wojciech Zaremba (OpenAI)
   
 ### 2nd part: Deep Unsupervised Learning
- - Autoencoders (standard, denoising, contractive, etc etc)
+ - Autoencoders (standard, denoising, contractive, etc.)
  - Variational Autoencoders
  - Adversarial Generative Networks
  - Maximum Entropy Distributions
  - Open Problems
-   
+ - Guest Lecture: Ian GoodFellow (Google)
 
 ### 3rd part: Miscellaneous Topics
-- Non-convex optimization theory for deep networks (Rene, Yann, Ganguli)
+- Non-convex optimization theory for deep networks 
 - Stochastic Optimization
-- Attention and Memory Models ( Cho, Weston, NTM, applications ) 
+- Attention and Memory Models
+- Guest Lecture: Yann Dauphin (Facebook AI Research)
   
 
 
