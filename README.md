@@ -19,7 +19,7 @@ UC Berkeley, Statistics Department
   - Embeddings (DrLim), inverse problems 
   - Extensions to non-euclidean domains.
   - Dynamical systems: RNNs and optimal control. 
-  - Guest Lecture: Wojciech Zaremba (OpenAI)
+  - Guest Lecture: **Wojciech Zaremba** (OpenAI)
   
 ### 2nd part: Deep Unsupervised Learning
  - Autoencoders (standard, denoising, contractive, etc.)
@@ -27,13 +27,13 @@ UC Berkeley, Statistics Department
  - Adversarial Generative Networks
  - Maximum Entropy Distributions
  - Open Problems
- - Guest Lecture: Ian Goodfellow (Google)
+ - Guest Lecture: **Ian Goodfellow** (Google)
 
 ### 3rd part: Miscellaneous Topics
 - Non-convex optimization theory for deep networks 
 - Stochastic Optimization
 - Attention and Memory Models
-- Guest Lecture: Yann Dauphin (Facebook AI Research)
+- Guest Lecture: **Yann Dauphin** (Facebook AI Research)
   
 
 
