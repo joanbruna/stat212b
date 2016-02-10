@@ -43,34 +43,41 @@ Lec1 Jan 19: Intro and Logistics
 
 Lec2 Jan 21: Representations for Recognition : stability, variability. 
  Kernel approaches / Feature extraction. Properties. 
- *recommended reading*
+
+  *recommended reading*
   -  [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
   -  [Elements of Statistical Learning, chapt. 12](http://statweb.stanford.edu/~tibs/ElemStatLearn/), Hastie, Tibshirani, Friedman.
  
 Lec3 Jan 26: Groups, Invariants and Filters.
-*recommended reading*
+
+  *recommended reading*
   - [Learning Stable Group Invariant Representations with Convolutional Networks](http://cims.nyu.edu/~bruna/Misc/iclr_group2.pdf)
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
   - [A Wavelet Tour of Signal Processing, chapt 2-5,7](https://www.ceremade.dauphine.fr/~peyre/wavelet-tour/), S. Mallat.
 
 Lec4 Jan 28: Scattering Convolutional Networks.
-*recommended reading*
+
+  *recommended reading*
   - [Invariant Scattering Convolutional Networks](http://arxiv.org/pdf/1203.1513v2.pdf)
-*further reading*
+ 
+   *further reading*
   - [Group Invariant Scattering](http://arxiv.org/abs/1101.2286), S. Mallat
   - [Scattering Representations for Recognition](http://cims.nyu.edu/~bruna/PhD.html)
 
 Lec5 Feb 2: Further Scattering: Properties and Extensions.
-*recommended reading*
+
+  *recommended reading*
   - [Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sifre_Rotation_Scaling_and_2013_CVPR_paper.pdf), Sifre & Mallat.
 
 Lec6 Feb 4: Convolutional Neural Networks: Geometry and first Properties.
-*recommended reading*
+
+  *recommended reading*
   - [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) Y. LeCun, Bengio & Hinton.
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
 
 Lec7 Feb 9: Properties of learnt CNN representations: Covariance and Invariance, redundancy, invertibility
-*recommended reading*
+
+  *recommended reading*
   - [Deep Neural Networks with Random Gaussian Weights: A universal Classification Strategy?](http://arxiv.org/abs/1504.08291), R. Giryes, G. Sapiro, A. Bronstein.
   - [Intriguing Properties of Neural Networks](http://arxiv.org/abs/1312.6199) C. Szegedy et al. 
   - [Geodesics of Learnt Representations](http://arxiv.org/abs/1511.06394) O. Henaff & E. Simoncelli.
