@@ -84,11 +84,20 @@ UC Berkeley, Statistics Department
   - [Inverting Visual Representations with Convolutional Networks](http://arxiv.org/abs/1506.02753), A. Dosovitskiy, T. Brox.
   - [Visualizing and Understanding Convolutional Networks](http://arxiv.org/abs/1311.2901) M. Zeiler, R. Fergus.
 
-- **Lec8** Feb 11: Connections with other models (DL, Lista, Random Forests, CART)
+- **Lec8** Feb 11: Connections with other models (DL, Lista, Random Forests, CART) 
 
-- **Lec9** Feb 16: Representations of stationary processes. Properties. 
+ *recommended reading*
+ - [Proximal Splitting Methods in Signal Processing](http://arxiv.org/pdf/0912.3522v4.pdf) Combettes & Pesquet.
+ - [A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems](http://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Sparse_Seminar/Entrees/2012/11/12_A_Fast_Iterative_Shrinkage-Thresholding_Algorithmfor_Linear_Inverse_Problems_(A._Beck,_M._Teboulle)_files/Breck_2009.pdf) Beck & Teboulle
+ - [Learning Fast Approximations of Sparse Coding](http://www.cs.nyu.edu/~kgregor/gregor-icml-10.pdf) K. Gregor & Y. LeCun
+ - [Task Driven Dictionary Learning](http://arxiv.org/pdf/1009.5358.pdf) J. Mairal, F. Bach, J. Ponce
+ - [Exploiting Generative Models in Discriminative Classifiers](http://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf) T. Jaakkola & D. Haussler
+ - [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf) F. Perronnin et al.
+ - [NetVLAD](http://www.di.ens.fr/willow/research/netvlad/) R. Arandjelovic et al.
 
-- **Lec10** Feb 18: Other high level tasks: localization, regression, embedding, inverse problems. Extensions to non-Euclidean domain.
+- **Lec9** Feb 16: Other high level tasks: localization, regression, embedding, inverse problems. Extensions to non-Euclidean domain.
+
+- **Lec10** Feb 18:  Representations of stationary processes. Properties. 
 
 - **Lec11** Feb 23: Sequential Data: Recurrent Neural Networks. 
 
