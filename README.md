@@ -109,9 +109,9 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **Lec11** Feb 23: Sequential Data: Recurrent Neural Networks. 
 
-- **Lec12** Feb 25: Guest Lecture ( W. Zaremba, OpenAI ) 
+- **Lec12** Feb 25: Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Restricted Boltzmann Machines. Curse of dimensionality
 
-- **Lec13** Mar 1: Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Curse of dimensionality
+- **Lec13** Mar 1:  Guest Lecture ( W. Zaremba, OpenAI ) 
 
 - **Lec14** Mar 3: Variational Autoencoders
 
