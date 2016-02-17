@@ -95,9 +95,17 @@ by Joan Bruna, UC Berkeley, Statistics Department
  - [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf) F. Perronnin et al.
  - [NetVLAD](http://www.di.ens.fr/willow/research/netvlad/) R. Arandjelovic et al.
 
-- **Lec9** Feb 16: Other high level tasks: localization, regression, embedding, inverse problems. Extensions to non-Euclidean domain.
+- **Lec9** Feb 16: Other high level tasks: localization, regression, embedding, inverse problems. 
 
-- **Lec10** Feb 18:  Representations of stationary processes. Properties. 
+ *recommended reading*
+ - [Object Detection with Discriminatively Trained Deformable Parts Model](https://www.cs.berkeley.edu/~rbg/papers/Object-Detection-with-Discriminatively-Trained-Part-Based-Models--Felzenszwalb-Girshick-McAllester-Ramanan.pdf) Felzenswalb, Girshick, McAllester and Ramanan, PAMI'10
+ - [Deformable Parts Models are Convolutional Neural Networks](http://arxiv.org/abs/1409.5403), Girshick, Iandola, Darrel and Malik, CVPR'15.
+ - [Rich Feature Hierarchies for accurate object detection and semantic segmentation](http://arxiv.org/abs/1311.2524) Girshick, Donahue, Darrel and Malik, PAMI'14.
+ - [Graphical Models, message-passing algorithms and convex optimization](http://www.eecs.berkeley.edu/~wainwrig/Talks/A_GraphModel_Tutorial) M. Wainwright.
+ - [Conditional Random Fields as Recurrent Neural Networks](http://arxiv.org/pdf/1502.03240.pdf) Zheng et al, ICCV'15
+ - [Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation](http://arxiv.org/abs/1406.2984) Tompson, Jain, LeCun and Bregler, NIPS'14.
+
+- **Lec10** Feb 18:  Extensions to non-Euclidean domain. Representations of stationary processes. Properties. 
 
 - **Lec11** Feb 23: Sequential Data: Recurrent Neural Networks. 
 
