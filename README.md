@@ -107,7 +107,14 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **Lec10** Feb 18:  Extensions to non-Euclidean domain. Representations of stationary processes. Properties. 
 
-- **Lec11** Feb 23: Sequential Data: Recurrent Neural Networks. 
+ *recommended reading*
+ - [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf) Hadsell, Chopra, LeCun,'06. 
+ - [Deep Metric Learning via Lifted Structured Feature Embedding](http://arxiv.org/abs/1511.06452) Oh Song, Xiang, Jegelka, Savarese,'15.
+ - [Spectral Networks and Locally Connected Networks on Graphs](http://arxiv.org/abs/1312.6203) Bruna, Szlam, Zaremba, LeCun,'14.
+ - [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025) Jaderberg, Simonyan, Zisserman, Kavukcuoglu,'15.
+ - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) Bruna, Mallat, Bacry, Muzy,'14.
+
+- **Lec11** Feb 23: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks. 
 
 - **Lec12** Feb 25: Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Restricted Boltzmann Machines. Curse of dimensionality
 
