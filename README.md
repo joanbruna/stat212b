@@ -116,7 +116,8 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec11](lec11_guest_wojciechzaremba.pdf)** Feb 23: Guest Lecture ( W. Zaremba, OpenAI )  Discrete Neural Turing Machines. 
 
-- **[Lec12](lec12.pdf) ** Feb 25: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks. 
+- **[Lec12](lec12.pdf)** Feb 25: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks.
+
   *recommended reading*
   - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) J.B., Mallat, Bacry and Muzy, Annals of Statistics,'13. 
   - [Texture Synthesis Using Convolutional Neural Networks](http://arxiv.org/abs/1505.07376) Gatys, Ecker, Betghe, NIPS'15.
