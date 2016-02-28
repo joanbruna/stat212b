@@ -120,6 +120,7 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
   *recommended reading*
   - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) J.B., Mallat, Bacry and Muzy, Annals of Statistics,'13. 
+  - [A mathematical motivation for complex-valued convolutional networks](http://arxiv.org/abs/1503.03438) Tygert et al., Neural Computation'16. 
   - [Texture Synthesis Using Convolutional Neural Networks](http://arxiv.org/abs/1505.07376) Gatys, Ecker, Betghe, NIPS'15.
   - [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576), Gatys, Ecker, Betghe, '15.
   - [Time Series Analysis and its Applications](http://www.stat.pitt.edu/stoffer/tsa3/) Shumway, Stoffer, Chapter 6.
