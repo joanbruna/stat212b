@@ -114,11 +114,17 @@ by Joan Bruna, UC Berkeley, Statistics Department
  - [Spatial Transformer Networks](http://arxiv.org/abs/1506.02025) Jaderberg, Simonyan, Zisserman, Kavukcuoglu,'15.
  - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) Bruna, Mallat, Bacry, Muzy,'14.
 
-- **Lec11** Feb 23: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks. 
+- **[Lec11](lec11_guest_wojciechzaremba.pdf)** Feb 23: Guest Lecture ( W. Zaremba, OpenAI )  Discrete Neural Turing Machines. 
 
-- **Lec12** Feb 25: Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Restricted Boltzmann Machines. Curse of dimensionality
+- **[Lec12](lec12.pdf) ** Feb 25: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks. 
+  *recommended reading*
+  - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) J.B., Mallat, Bacry and Muzy, Annals of Statistics,'13. 
+  - [Texture Synthesis Using Convolutional Neural Networks](http://arxiv.org/abs/1505.07376) Gatys, Ecker, Betghe, NIPS'15.
+  - [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576), Gatys, Ecker, Betghe, '15.
+  - [Time Series Analysis and its Applications](http://www.stat.pitt.edu/stoffer/tsa3/) Shumway, Stoffer, Chapter 6.
+  - [Deep Learning](http://www.deeplearningbook.org) Goodfellow, Bengio, Courville,'16. Chapter 10. 
 
-- **Lec13** Mar 1:  Guest Lecture ( W. Zaremba, OpenAI ) 
+- **Lec13** Mar 1: Recurrent Neural Networks (contd). Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Restricted Boltzmann Machines. Curse of dimensionality  
 
 - **Lec14** Mar 3: Variational Autoencoders
 
