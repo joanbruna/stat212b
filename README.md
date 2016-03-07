@@ -126,11 +126,22 @@ by Joan Bruna, UC Berkeley, Statistics Department
   - [Time Series Analysis and its Applications](http://www.stat.pitt.edu/stoffer/tsa3/) Shumway, Stoffer, Chapter 6.
   - [Deep Learning](http://www.deeplearningbook.org) Goodfellow, Bengio, Courville,'16. Chapter 10. 
 
-- **Lec13** Mar 1: Recurrent Neural Networks (contd). Unsupervised Learning: autoencoders. Density estimation. Parzen estimators. Restricted Boltzmann Machines. Curse of dimensionality  
+- **Lec13** Mar 1: Recurrent Neural Networks (contd). Long Short Term Memory. Applications. 
 
-- **Lec14** Mar 3: Variational Autoencoders
+ *recommended reading*
+ - [Deep Learning](http://www.deeplearningbook.org) Goodfellow, Bengio, Courville,'16. Chapter 10. 
+ - [Generating Sequences with Recurrent Neural Networks](http://arxiv.org/abs/1308.0850) A. Graves. 
+ - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) A. Karpathy
+ - [The Unreasonable effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139) Y. Goldberg
 
-- **Lec15** Mar 8: Adversarial Generative Networks
+- **Lec14** Mar 3: Unsupervised Learning: Curse of dimensionality, Density estimation. Restricted Boltzmann Machines. Variational Inference.
+
+  *recommended reading*
+  - [Describing Multimedia Content Using Attention-based Encoder-Decoder Networks](http://arxiv.org/pdf/1507.01053.pdf) K. Cho, A. Courville, Y. Bengio
+  - [Graphical Models, Exponential Families and Variational Inference](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
+  
+
+- **Lec15** Mar 8: Variational Autoencoders. Adversarial Generative Networks
 
 - **Lec16** Mar 10: Maximum Entropy Distributions
 
