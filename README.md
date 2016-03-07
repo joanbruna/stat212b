@@ -134,16 +134,16 @@ by Joan Bruna, UC Berkeley, Statistics Department
  - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) A. Karpathy
  - [The Unreasonable effectiveness of Character-level Language Models](http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139) Y. Goldberg
 
-- **[Lec14](lec14.pdf)** Mar 3: Unsupervised Learning: Curse of dimensionality, Density estimation. Restricted Boltzmann Machines. Variational Inference.
+- **[Lec14](lec14.pdf)** Mar 3: Unsupervised Learning: Curse of dimensionality, Density estimation. Graphical Models, Latent Variable models.
 
   *recommended reading*
   - [Describing Multimedia Content Using Attention-based Encoder-Decoder Networks](http://arxiv.org/pdf/1507.01053.pdf) K. Cho, A. Courville, Y. Bengio
   - [Graphical Models, Exponential Families and Variational Inference](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
   
 
-- **Lec15** Mar 8: Variational Autoencoders. Adversarial Generative Networks
+- **Lec15** Mar 8: Restricted Boltzmann Machines. Variational Inference. Variational Autoencoders. 
 
-- **Lec16** Mar 10: Maximum Entropy Distributions
+- **Lec16** Mar 10: Adversarial Generative Networks. Maximum Entropy Distributions
 
 - **Lec17** Mar 29: Self-supervised models (analogies, video prediction, text, word2vec). 
 
