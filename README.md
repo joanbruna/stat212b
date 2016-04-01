@@ -153,7 +153,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 - **[Lec16](lec16.pdf)** Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.
   
   *recommended reading*
-  - [Deep Learning book, chapters 19-20](http://www.deeplearningbook.org)
   - [Semi-supervised learning with Deep generative models](http://arxiv.org/pdf/1406.5298.pdf) Kingma, Rezende, Mohamed, Welling. 
   - [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519) Burda, Grosse, Salakhutdinov.
   - [Variational Inference with Normalizing Flows](http://arxiv.org/abs/1505.05770) Rezende, Mohamed. 
