@@ -141,13 +141,40 @@ by Joan Bruna, UC Berkeley, Statistics Department
   - [Graphical Models, Exponential Families and Variational Inference](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
   
 
-- **Lec15** Mar 8: Restricted Boltzmann Machines. Variational Inference. Variational Autoencoders. 
+- **[Lec15](lec15.pdf)** Mar 8: Autoencoders. Variational Inference. Variational Autoencoders. 
 
-- **Lec16** Mar 10: Adversarial Generative Networks. Maximum Entropy Distributions
+  *recommended reading*
+  - [Graphical Models, Exponential Families and Variational Inference, chapter 3](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
+  - [Variational Inference with Stochastic Search](http://www.cs.berkeley.edu/~jordan/papers/paisley-etal-icml12.pdf) J.Paisley, D. Blei, M.Jordan.
+  - [Stochastic Variational Inference](http://arxiv.org/pdf/1206.7051.pdf) M. Hoffman, D. Blei, Wang, Paisley. 
+  - [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114), Kingma & Welling. 
+  - [Stochastic Backpropagation and variational inference in deep latent gaussian models](http://arxiv.org/abs/1401.4082) D. Rezende, S. Mohamed, D. Wierstra.
 
-- **Lec17** Mar 29: Self-supervised models (analogies, video prediction, text, word2vec). 
+- **Lec16** Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.
+  
+  *recommended reading*
+  - [Deep Learning book, chapters 19-20](http://www.deeplearningbook.org)
+  - [Semi-supervised learning with Deep generative models](http://arxiv.org/pdf/1406.5298.pdf) Kingma, Rezende, Mohamed, Welling. 
+  - [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519) Burda, Grosse, Salakhutdinov.
+  - [Variational Inference with Normalizing Flows](http://arxiv.org/abs/1505.05770) Rezende, Mohamed. 
+  - [Unsupervised Learning using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585) Sohl-Dickstein et al.
+  - [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661), Goodfellow et al. 
 
-- **Lec18** Mar 31: Guest Lecture ( I. Goodfellow, Google Brain ) 
+- **Lec17** Mar 29: Adversarial Generative Networks (contd).
+
+  *recommended reading*
+  - [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661), Goodfellow et al. 
+  - [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751) Denton, Chintala, Szlam, Fergus. 
+  - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) Radford, Metz, Chintala. 
+
+- **Lec18** Mar 31: Maximum Entropy Distributions. Self-supervised models (analogies, video prediction, text, word2vec).   
+
+  *recommended reading*
+  -  [Graphical Models, Exponential Families and Variational Inference, chapter 3](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
+  -  [An Introduction to MCMC for Machine Learning](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf) Andrieu, de Freitas, Doucet, Jordan.
+  -  [Stochastic relaxation, Gibbs distributions and the Bayesian Restoration of Images](http://www.stat.cmu.edu/~acthomas/724/Geman.pdf) Geman & Geman. 
+  -  [Distributed Representations of Words and Phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) Mikolov et al. 
+  -  [word2vec Explained: deriving Mikolov et al's negative-sampling embedding method](http://arxiv.org/abs/1402.3722) Goldberg & Levy.
 
 - **Lec19** Apr 5: Non-convex Optimization: parameter redundancy, spin-glass, optimiality certificates. stability
 
