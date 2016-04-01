@@ -150,7 +150,7 @@ by Joan Bruna, UC Berkeley, Statistics Department
   - [Auto-Encoding Variational Bayes](http://arxiv.org/abs/1312.6114), Kingma & Welling. 
   - [Stochastic Backpropagation and variational inference in deep latent gaussian models](http://arxiv.org/abs/1401.4082) D. Rezende, S. Mohamed, D. Wierstra.
 
-- **Lec16** Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.
+- **[Lec16](lec16.pdf)** Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.
   
   *recommended reading*
   - [Deep Learning book, chapters 19-20](http://www.deeplearningbook.org)
@@ -160,14 +160,14 @@ by Joan Bruna, UC Berkeley, Statistics Department
   - [Unsupervised Learning using Nonequilibrium Thermodynamics](http://arxiv.org/abs/1503.03585) Sohl-Dickstein et al.
   - [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661), Goodfellow et al. 
 
-- **Lec17** Mar 29: Adversarial Generative Networks (contd).
+- **[Lec17](lec17.pdf)** Mar 29: Adversarial Generative Networks (contd).
 
   *recommended reading*
   - [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661), Goodfellow et al. 
   - [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751) Denton, Chintala, Szlam, Fergus. 
   - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) Radford, Metz, Chintala. 
 
-- **Lec18** Mar 31: Maximum Entropy Distributions. Self-supervised models (analogies, video prediction, text, word2vec).   
+- **[Lec18](lec18.pdf)** Mar 31: Maximum Entropy Distributions. Self-supervised models (analogies, video prediction, text, word2vec).   
 
   *recommended reading*
   -  [Graphical Models, Exponential Families and Variational Inference, chapter 3](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
