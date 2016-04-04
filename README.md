@@ -27,7 +27,7 @@ by Joan Bruna, UC Berkeley, Statistics Department
  - Adversarial Generative Networks
  - Maximum Entropy Distributions
  - Open Problems
- - Guest Lecture: **Ian Goodfellow** (Google)
+ - Guest Lecture: TBA
 
 ### 3rd part: Miscellaneous Topics
 - Non-convex optimization theory for deep networks 
