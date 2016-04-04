@@ -27,7 +27,7 @@ by Joan Bruna, UC Berkeley, Statistics Department
  - Adversarial Generative Networks
  - Maximum Entropy Distributions
  - Open Problems
- - Guest Lecture: TBA
+ - Guest Lecture: Soumith Chintala (Facebook AI Research)
 
 ### 3rd part: Miscellaneous Topics
 - Non-convex optimization theory for deep networks 
@@ -175,15 +175,13 @@ by Joan Bruna, UC Berkeley, Statistics Department
   -  [Distributed Representations of Words and Phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) Mikolov et al. 
   -  [word2vec Explained: deriving Mikolov et al's negative-sampling embedding method](http://arxiv.org/abs/1402.3722) Goldberg & Levy.
 
-- **Lec19** Apr 5: Non-convex Optimization: parameter redundancy, spin-glass, optimiality certificates. stability
+- **Lec19** Apr 5: Non-convex Optimization. Stochastic Optimization. Generalization vs Redundancy. 
 
-- **Lec20** Apr 7: Tensor Decompositions
+- **Lec20** Apr 7:  Guest Lecture (S. Chintala, Facebook AI Research)
 
-- **Lec21** Apr 12: Stochastic Optimization, Batch Normalization, Dropout
+- **Lec21** Apr 12: Batch Normalization, Dropout
 
-- **Lec22** Apr 14: Reasoning, Attention and Memory: New trends of the field and challenges. 
-      limits of sequential representations (need for attention and memory). 
-      modern enhancements (NTM, Memnets, Stack/RNNs, etc.)
+- **Lec22** Apr 14: Tensor Decompositions, Spin Glasses. Open Problems
 
 - **Lec23** Apr 19: Guest Lecture (Y. Dauphin, Facebook AI Research)
 
