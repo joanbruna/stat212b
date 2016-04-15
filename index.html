@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Stat212b: Topics Course on Deep Learning by joanbruna</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">Stat212b: Topics Course on Deep Learning</h1>
+      <h2 class="project-tagline">by Joan Bruna, UC Berkeley, Statistics Department.</h2>
+      <a href="https://github.com/joanbruna/stat212b" class="btn">View on GitHub</a>
+      <a href="https://github.com/joanbruna/stat212b/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/joanbruna/stat212b/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <h3>
+<a id="topics-in-deep-learning" class="anchor" href="#topics-in-deep-learning" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Topics in Deep Learning</h3>
+
+<p>This topics course aims to present the mathematical, statistical and computational challenges of building stable representations for high-dimensional data, such as images, text and data. We will delve into selected topics of Deep Learning, discussing recent models from both supervised and unsupervised learning. Special emphasis will be on convolutional architectures, invariance learning, unsupervised learning and non-convex optimization.</p>
+
+<h3>
+<a id="detailed-syllabus-and-lectures" class="anchor" href="#detailed-syllabus-and-lectures" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Detailed Syllabus and Lectures</h3>
+
+<ul>
+<li><p><strong><a href="lec1.pdf">Lec1</a></strong> Jan 19: Intro and Logistics</p></li>
+<li>
+<p><strong><a href="lec2.pdf">Lec2</a></strong> Jan 21: Representations for Recognition : stability, variability. 
+Kernel approaches / Feature extraction. Properties. </p>
+
+<ul>
+<li>
+<a href="http://statweb.stanford.edu/%7Etibs/ElemStatLearn/">Elements of Statistical Learning, chapt. 12</a>, Hastie, Tibshirani, Friedman.</li>
+<li>
+<a href="http://arxiv.org/pdf/1601.04920.pdf">Understanding Deep Convolutional Networks</a>, S. Mallat.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec3.pdf">Lec3</a></strong> Jan 26: Groups, Invariants and Filters.</p>
+
+<ul>
+<li><a href="http://cims.nyu.edu/%7Ebruna/Misc/iclr_group2.pdf">Learning Stable Group Invariant Representations with Convolutional Networks</a></li>
+<li>
+<a href="http://arxiv.org/pdf/1601.04920.pdf">Understanding Deep Convolutional Networks</a>, S. Mallat.</li>
+<li>
+<a href="https://www.ceremade.dauphine.fr/%7Epeyre/wavelet-tour/">A Wavelet Tour of Signal Processing, chapt 2-5,7</a>, S. Mallat.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec4.pdf">Lec4</a></strong> Jan 28: Scattering Convolutional Networks.</p>
+
+<ul>
+<li><a href="http://arxiv.org/pdf/1203.1513v2.pdf">Invariant Scattering Convolutional Networks</a></li>
+</ul>
+
+<p><em>further reading</em></p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1101.2286">Group Invariant Scattering</a>, S. Mallat</li>
+<li><a href="http://cims.nyu.edu/%7Ebruna/PhD.html">Scattering Representations for Recognition</a></li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec5.pdf">Lec5</a></strong> Feb 2: Further Scattering: Properties and Extensions.</p>
+
+<ul>
+<li>
+<a href="http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sifre_Rotation_Scaling_and_2013_CVPR_paper.pdf">Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination</a>, Sifre &amp; Mallat.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec6.pdf">Lec6</a></strong> Feb 4: Convolutional Neural Networks: Geometry and first Properties.</p>
+
+<ul>
+<li>
+<a href="http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html">Deep Learning</a> Y. LeCun, Bengio &amp; Hinton.</li>
+<li>
+<a href="http://arxiv.org/pdf/1601.04920.pdf">Understanding Deep Convolutional Networks</a>, S. Mallat.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec7.pdf">Lec7</a></strong> Feb 9: Properties of learnt CNN representations: Covariance and Invariance, redundancy, invertibility</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1504.08291">Deep Neural Networks with Random Gaussian Weights: A universal Classification Strategy?</a>, R. Giryes, G. Sapiro, A. Bronstein.</li>
+<li>
+<a href="http://arxiv.org/abs/1312.6199">Intriguing Properties of Neural Networks</a> C. Szegedy et al. </li>
+<li>
+<a href="http://arxiv.org/abs/1511.06394">Geodesics of Learnt Representations</a> O. Henaff &amp; E. Simoncelli.</li>
+<li>
+<a href="http://arxiv.org/abs/1506.02753">Inverting Visual Representations with Convolutional Networks</a>, A. Dosovitskiy, T. Brox.</li>
+<li>
+<a href="http://arxiv.org/abs/1311.2901">Visualizing and Understanding Convolutional Networks</a> M. Zeiler, R. Fergus.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec8.pdf">Lec8</a></strong> Feb 11: Connections with other models (DL, Lista, Random Forests, CART) </p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/pdf/0912.3522v4.pdf">Proximal Splitting Methods in Signal Processing</a> Combettes &amp; Pesquet.</li>
+<li>
+<a href="http://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Sparse_Seminar/Entrees/2012/11/12_A_Fast_Iterative_Shrinkage-Thresholding_Algorithmfor_Linear_Inverse_Problems_(A._Beck,_M._Teboulle)_files/Breck_2009.pdf">A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems</a> Beck &amp; Teboulle</li>
+<li>
+<a href="http://www.cs.nyu.edu/%7Ekgregor/gregor-icml-10.pdf">Learning Fast Approximations of Sparse Coding</a> K. Gregor &amp; Y. LeCun</li>
+<li>
+<a href="http://arxiv.org/pdf/1009.5358.pdf">Task Driven Dictionary Learning</a> J. Mairal, F. Bach, J. Ponce</li>
+<li>
+<a href="http://papers.nips.cc/paper/1520-exploiting-generative-models-in-discriminative-classifiers.pdf">Exploiting Generative Models in Discriminative Classifiers</a> T. Jaakkola &amp; D. Haussler</li>
+<li>
+<a href="https://www.robots.ox.ac.uk/%7Evgg/rg/papers/peronnin_etal_ECCV10.pdf">Improving the Fisher Kernel for Large-Scale Image Classification</a> F. Perronnin et al.</li>
+<li>
+<a href="http://www.di.ens.fr/willow/research/netvlad/">NetVLAD</a> R. Arandjelovic et al.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec9.pdf">Lec9</a></strong> Feb 16: Other high level tasks: localization, regression, embedding, inverse problems. </p>
+
+<ul>
+<li>
+<a href="https://www.cs.berkeley.edu/%7Erbg/papers/Object-Detection-with-Discriminatively-Trained-Part-Based-Models--Felzenszwalb-Girshick-McAllester-Ramanan.pdf">Object Detection with Discriminatively Trained Deformable Parts Model</a> Felzenswalb, Girshick, McAllester and Ramanan, PAMI'10</li>
+<li>
+<a href="http://arxiv.org/abs/1409.5403">Deformable Parts Models are Convolutional Neural Networks</a>, Girshick, Iandola, Darrel and Malik, CVPR'15.</li>
+<li>
+<a href="http://arxiv.org/abs/1311.2524">Rich Feature Hierarchies for accurate object detection and semantic segmentation</a> Girshick, Donahue, Darrel and Malik, PAMI'14.</li>
+<li>
+<a href="http://www.eecs.berkeley.edu/%7Ewainwrig/Talks/A_GraphModel_Tutorial">Graphical Models, message-passing algorithms and convex optimization</a> M. Wainwright.</li>
+<li>
+<a href="http://arxiv.org/pdf/1502.03240.pdf">Conditional Random Fields as Recurrent Neural Networks</a> Zheng et al, ICCV'15</li>
+<li>
+<a href="http://arxiv.org/abs/1406.2984">Joint Training of a Convolutional Network and a Graphical Model for Human Pose Estimation</a> Tompson, Jain, LeCun and Bregler, NIPS'14.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec10.pdf">Lec10</a></strong> Feb 18:  Extensions to non-Euclidean domain. Representations of stationary processes. Properties. </p>
+
+<ul>
+<li>
+<a href="http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf">Dimensionality Reduction by Learning an Invariant Mapping</a> Hadsell, Chopra, LeCun,'06. </li>
+<li>
+<a href="http://arxiv.org/abs/1511.06452">Deep Metric Learning via Lifted Structured Feature Embedding</a> Oh Song, Xiang, Jegelka, Savarese,'15.</li>
+<li>
+<a href="http://arxiv.org/abs/1312.6203">Spectral Networks and Locally Connected Networks on Graphs</a> Bruna, Szlam, Zaremba, LeCun,'14.</li>
+<li>
+<a href="http://arxiv.org/abs/1506.02025">Spatial Transformer Networks</a> Jaderberg, Simonyan, Zisserman, Kavukcuoglu,'15.</li>
+<li>
+<a href="http://arxiv.org/abs/1311.4104">Intermittent Process Analysis with Scattering Moments</a> Bruna, Mallat, Bacry, Muzy,'14.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec12.pdf">Lec12</a></strong> Feb 25: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks.</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1311.4104">Intermittent Process Analysis with Scattering Moments</a> J.B., Mallat, Bacry and Muzy, Annals of Statistics,'13. </li>
+<li>
+<a href="http://arxiv.org/abs/1503.03438">A mathematical motivation for complex-valued convolutional networks</a> Tygert et al., Neural Computation'16. </li>
+<li>
+<a href="http://arxiv.org/abs/1505.07376">Texture Synthesis Using Convolutional Neural Networks</a> Gatys, Ecker, Betghe, NIPS'15.</li>
+<li>
+<a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a>, Gatys, Ecker, Betghe, '15.</li>
+<li>
+<a href="http://www.stat.pitt.edu/stoffer/tsa3/">Time Series Analysis and its Applications</a> Shumway, Stoffer, Chapter 6.</li>
+<li>
+<a href="http://www.deeplearningbook.org">Deep Learning</a> Goodfellow, Bengio, Courville,'16. Chapter 10. </li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec13.pdf">Lec13</a></strong> Mar 1: Recurrent Neural Networks (contd). Long Short Term Memory. Applications. </p>
+
+<ul>
+<li>
+<a href="http://www.deeplearningbook.org">Deep Learning</a> Goodfellow, Bengio, Courville,'16. Chapter 10. </li>
+<li>
+<a href="http://arxiv.org/abs/1308.0850">Generating Sequences with Recurrent Neural Networks</a> A. Graves. </li>
+<li>
+<a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/">The Unreasonable Effectiveness of Recurrent Neural Networks</a> A. Karpathy</li>
+<li>
+<a href="http://nbviewer.jupyter.org/gist/yoavg/d76121dfde2618422139">The Unreasonable effectiveness of Character-level Language Models</a> Y. Goldberg</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec14.pdf">Lec14</a></strong> Mar 3: Unsupervised Learning: Curse of dimensionality, Density estimation. Graphical Models, Latent Variable models.</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/pdf/1507.01053.pdf">Describing Multimedia Content Using Attention-based Encoder-Decoder Networks</a> K. Cho, A. Courville, Y. Bengio</li>
+<li>
+<a href="https://www.eecs.berkeley.edu/%7Ewainwrig/Papers/WaiJor08_FTML.pdf">Graphical Models, Exponential Families and Variational Inference</a> M. Wainwright, M. Jordan.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec15.pdf">Lec15</a></strong> Mar 8: Autoencoders. Variational Inference. Variational Autoencoders. </p>
+
+<ul>
+<li>
+<a href="https://www.eecs.berkeley.edu/%7Ewainwrig/Papers/WaiJor08_FTML.pdf">Graphical Models, Exponential Families and Variational Inference, chapter 3</a> M. Wainwright, M. Jordan.</li>
+<li>
+<a href="http://www.cs.berkeley.edu/%7Ejordan/papers/paisley-etal-icml12.pdf">Variational Inference with Stochastic Search</a> J.Paisley, D. Blei, M.Jordan.</li>
+<li>
+<a href="http://arxiv.org/pdf/1206.7051.pdf">Stochastic Variational Inference</a> M. Hoffman, D. Blei, Wang, Paisley. </li>
+<li>
+<a href="http://arxiv.org/abs/1312.6114">Auto-Encoding Variational Bayes</a>, Kingma &amp; Welling. </li>
+<li>
+<a href="http://arxiv.org/abs/1401.4082">Stochastic Backpropagation and variational inference in deep latent gaussian models</a> D. Rezende, S. Mohamed, D. Wierstra.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec16.pdf">Lec16</a></strong> Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/pdf/1406.5298.pdf">Semi-supervised learning with Deep generative models</a> Kingma, Rezende, Mohamed, Welling. </li>
+<li>
+<a href="http://arxiv.org/abs/1509.00519">Importance Weighted Autoencoders</a> Burda, Grosse, Salakhutdinov.</li>
+<li>
+<a href="http://arxiv.org/abs/1505.05770">Variational Inference with Normalizing Flows</a> Rezende, Mohamed. </li>
+<li>
+<a href="http://arxiv.org/abs/1503.03585">Unsupervised Learning using Nonequilibrium Thermodynamics</a> Sohl-Dickstein et al.</li>
+<li>
+<a href="http://arxiv.org/abs/1406.2661">Generative Adversarial Networks</a>, Goodfellow et al. </li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec17.pdf">Lec17</a></strong> Mar 29: Adversarial Generative Networks (contd).</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1406.2661">Generative Adversarial Networks</a>, Goodfellow et al. </li>
+<li>
+<a href="http://arxiv.org/abs/1506.05751">Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks</a> Denton, Chintala, Szlam, Fergus. </li>
+<li>
+<a href="http://arxiv.org/abs/1511.06434">Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</a> Radford, Metz, Chintala. </li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec18.pdf">Lec18</a></strong> Mar 31: Maximum Entropy Distributions. Self-supervised models (analogies, video prediction, text, word2vec).   </p>
+
+<ul>
+<li> <a href="https://www.eecs.berkeley.edu/%7Ewainwrig/Papers/WaiJor08_FTML.pdf">Graphical Models, Exponential Families and Variational Inference, chapter 3</a> M. Wainwright, M. Jordan.</li>
+<li> <a href="http://www.cs.ubc.ca/%7Earnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf">An Introduction to MCMC for Machine Learning</a> Andrieu, de Freitas, Doucet, Jordan.</li>
+<li> <a href="http://www.stat.cmu.edu/%7Eacthomas/724/Geman.pdf">Stochastic relaxation, Gibbs distributions and the Bayesian Restoration of Images</a> Geman &amp; Geman. </li>
+<li> <a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Distributed Representations of Words and Phrases and their compositionality</a> Mikolov et al. </li>
+<li> <a href="http://arxiv.org/abs/1402.3722">word2vec Explained: deriving Mikolov et al's negative-sampling embedding method</a> Goldberg &amp; Levy.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec19.pdf">Lec19</a></strong> Apr 5: Self-supervised models (contd). Non-convex Optimization. Stochastic Optimization. </p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1601.06759">Pixel Recurrent Neural Networks</a> A. van den Oord, N. Kalchbrenner, K. Kavukcuoglu.</li>
+<li>
+<a href="https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf">The tradeoffs of Large Scale Learning</a> Bottou, Bousquet.</li>
+<li>
+<a href="http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf">Introduction to Statistical Learning Theory</a> Bousquet, Boucheron, Lugosi.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec21.pdf">Lec21</a></strong> Apr 12: Accelerated Gradient Descent, Regularization, Dropout.</p>
+
+<ul>
+<li>
+<a href="http://arxiv.org/abs/1405.4980">Convex Optimization: Algorithms and Complexity</a> S. Bubeck</li>
+<li>
+<a href="https://simons.berkeley.edu/talks/optimization">Optimization, Simons Big Data Boot Camp</a> B. Recht</li>
+<li>
+<a href="http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html">The Zen of Gradient Descent</a> M. Hardt.</li>
+<li>
+<a href="http://arxiv.org/abs/1509.01240">Train Faster, Generalize Better: Stability of Stochastic Gradient Descent</a> M. Hardt, B. Recht, Y. Singer.</li>
+<li>
+<a href="https://www.cs.toronto.edu/%7Ehinton/absps/JMLRdropout.pdf">Dropout: a simple way to prevent neural networks from Overfitting</a> Srivastava, Hinton et al.</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="lec22.pdf">Lec22</a></strong> Apr 14: Dropout (contd). Batch Normalization, Tensor Decompositions.</p>
+
+<ul>
+<li>
+<a href="http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf">Dropout Training as Adaptive Regularization</a> Wager, Wang, Liang.</li>
+<li>
+<a href="http://arxiv.org/abs/1502.03167">Batch Normalization: accelerating Deep Network Training by Reducing internal covariate shift</a> Ioffe, Szegedy. </li>
+<li>
+<a href="http://arxiv.org/pdf/1506.07540.pdf">Global Optimality in Tensor Factorization, Deep Learning and Beyond</a> Haefflele, Vidal.</li>
+<li>
+<a href="http://arxiv.org/abs/1509.05009">On the expressive power of Deep Learning: a tensor analysis</a> Cohen, Sharir, Shashua.</li>
+<li>
+<a href="http://arxiv.org/abs/1506.08473">Beating the Perils of non-convexity: Guaranteed Training of Neural Networks using Tensor methods</a> Janzamin, Sedghi, Anandkumar. </li>
+</ul>
+</li>
+</ul>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/joanbruna/stat212b">Stat212b: Topics Course on Deep Learning</a> is maintained by <a href="https://github.com/joanbruna">joanbruna</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
