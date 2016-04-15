@@ -44,20 +44,17 @@ by Joan Bruna, UC Berkeley, Statistics Department
 - **[Lec2](lec2.pdf)** Jan 21: Representations for Recognition : stability, variability. 
  Kernel approaches / Feature extraction. Properties. 
 
-  *recommended reading:*
   - [Elements of Statistical Learning, chapt. 12](http://statweb.stanford.edu/~tibs/ElemStatLearn/), Hastie, Tibshirani, Friedman.
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
  
 - **[Lec3](lec3.pdf)** Jan 26: Groups, Invariants and Filters.
 
-  *recommended reading*
   - [Learning Stable Group Invariant Representations with Convolutional Networks](http://cims.nyu.edu/~bruna/Misc/iclr_group2.pdf)
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
   - [A Wavelet Tour of Signal Processing, chapt 2-5,7](https://www.ceremade.dauphine.fr/~peyre/wavelet-tour/), S. Mallat.
 
 - **[Lec4](lec4.pdf)** Jan 28: Scattering Convolutional Networks.
 
-  *recommended reading*
   - [Invariant Scattering Convolutional Networks](http://arxiv.org/pdf/1203.1513v2.pdf)
  
    *further reading*
@@ -66,18 +63,15 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec5](lec5.pdf)** Feb 2: Further Scattering: Properties and Extensions.
 
-  *recommended reading*
   - [Rotation, Scaling and Deformation Invariant Scattering for Texture Discrimination](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Sifre_Rotation_Scaling_and_2013_CVPR_paper.pdf), Sifre & Mallat.
 
 - **[Lec6](lec6.pdf)** Feb 4: Convolutional Neural Networks: Geometry and first Properties.
 
-  *recommended reading*
   - [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html) Y. LeCun, Bengio & Hinton.
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
 
 - **[Lec7](lec7.pdf)** Feb 9: Properties of learnt CNN representations: Covariance and Invariance, redundancy, invertibility
 
-  *recommended reading*
   - [Deep Neural Networks with Random Gaussian Weights: A universal Classification Strategy?](http://arxiv.org/abs/1504.08291), R. Giryes, G. Sapiro, A. Bronstein.
   - [Intriguing Properties of Neural Networks](http://arxiv.org/abs/1312.6199) C. Szegedy et al. 
   - [Geodesics of Learnt Representations](http://arxiv.org/abs/1511.06394) O. Henaff & E. Simoncelli.
@@ -86,7 +80,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec8](lec8.pdf)** Feb 11: Connections with other models (DL, Lista, Random Forests, CART) 
 
- *recommended reading*
  - [Proximal Splitting Methods in Signal Processing](http://arxiv.org/pdf/0912.3522v4.pdf) Combettes & Pesquet.
  - [A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems](http://people.rennes.inria.fr/Cedric.Herzet/Cedric.Herzet/Sparse_Seminar/Entrees/2012/11/12_A_Fast_Iterative_Shrinkage-Thresholding_Algorithmfor_Linear_Inverse_Problems_(A._Beck,_M._Teboulle)_files/Breck_2009.pdf) Beck & Teboulle
  - [Learning Fast Approximations of Sparse Coding](http://www.cs.nyu.edu/~kgregor/gregor-icml-10.pdf) K. Gregor & Y. LeCun
@@ -97,7 +90,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec9](lec9.pdf)** Feb 16: Other high level tasks: localization, regression, embedding, inverse problems. 
 
- *recommended reading*
  - [Object Detection with Discriminatively Trained Deformable Parts Model](https://www.cs.berkeley.edu/~rbg/papers/Object-Detection-with-Discriminatively-Trained-Part-Based-Models--Felzenszwalb-Girshick-McAllester-Ramanan.pdf) Felzenswalb, Girshick, McAllester and Ramanan, PAMI'10
  - [Deformable Parts Models are Convolutional Neural Networks](http://arxiv.org/abs/1409.5403), Girshick, Iandola, Darrel and Malik, CVPR'15.
  - [Rich Feature Hierarchies for accurate object detection and semantic segmentation](http://arxiv.org/abs/1311.2524) Girshick, Donahue, Darrel and Malik, PAMI'14.
@@ -107,7 +99,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec10](lec10.pdf)** Feb 18:  Extensions to non-Euclidean domain. Representations of stationary processes. Properties. 
 
- *recommended reading*
  - [Dimensionality Reduction by Learning an Invariant Mapping](http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf) Hadsell, Chopra, LeCun,'06. 
  - [Deep Metric Learning via Lifted Structured Feature Embedding](http://arxiv.org/abs/1511.06452) Oh Song, Xiang, Jegelka, Savarese,'15.
  - [Spectral Networks and Locally Connected Networks on Graphs](http://arxiv.org/abs/1312.6203) Bruna, Szlam, Zaremba, LeCun,'14.
@@ -118,7 +109,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec12](lec12.pdf)** Feb 25: Representations of Stationary Processes (contd). Sequential Data: Recurrent Neural Networks.
 
-  *recommended reading*
   - [Intermittent Process Analysis with Scattering Moments](http://arxiv.org/abs/1311.4104) J.B., Mallat, Bacry and Muzy, Annals of Statistics,'13. 
   - [A mathematical motivation for complex-valued convolutional networks](http://arxiv.org/abs/1503.03438) Tygert et al., Neural Computation'16. 
   - [Texture Synthesis Using Convolutional Neural Networks](http://arxiv.org/abs/1505.07376) Gatys, Ecker, Betghe, NIPS'15.
@@ -128,7 +118,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec13](lec13.pdf)** Mar 1: Recurrent Neural Networks (contd). Long Short Term Memory. Applications. 
 
- *recommended reading*
  - [Deep Learning](http://www.deeplearningbook.org) Goodfellow, Bengio, Courville,'16. Chapter 10. 
  - [Generating Sequences with Recurrent Neural Networks](http://arxiv.org/abs/1308.0850) A. Graves. 
  - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) A. Karpathy
@@ -136,14 +125,12 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec14](lec14.pdf)** Mar 3: Unsupervised Learning: Curse of dimensionality, Density estimation. Graphical Models, Latent Variable models.
 
-  *recommended reading*
   - [Describing Multimedia Content Using Attention-based Encoder-Decoder Networks](http://arxiv.org/pdf/1507.01053.pdf) K. Cho, A. Courville, Y. Bengio
   - [Graphical Models, Exponential Families and Variational Inference](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
   
 
 - **[Lec15](lec15.pdf)** Mar 8: Autoencoders. Variational Inference. Variational Autoencoders. 
 
-  *recommended reading*
   - [Graphical Models, Exponential Families and Variational Inference, chapter 3](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
   - [Variational Inference with Stochastic Search](http://www.cs.berkeley.edu/~jordan/papers/paisley-etal-icml12.pdf) J.Paisley, D. Blei, M.Jordan.
   - [Stochastic Variational Inference](http://arxiv.org/pdf/1206.7051.pdf) M. Hoffman, D. Blei, Wang, Paisley. 
@@ -152,7 +139,6 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec16](lec16.pdf)** Mar 10: Variational Autoencoders (contd). Normalizing Flows. Adversarial Generative Networks.
   
-  *recommended reading*
   - [Semi-supervised learning with Deep generative models](http://arxiv.org/pdf/1406.5298.pdf) Kingma, Rezende, Mohamed, Welling. 
   - [Importance Weighted Autoencoders](http://arxiv.org/abs/1509.00519) Burda, Grosse, Salakhutdinov.
   - [Variational Inference with Normalizing Flows](http://arxiv.org/abs/1505.05770) Rezende, Mohamed. 
@@ -161,14 +147,12 @@ by Joan Bruna, UC Berkeley, Statistics Department
 
 - **[Lec17](lec17.pdf)** Mar 29: Adversarial Generative Networks (contd).
 
-  *recommended reading*
   - [Generative Adversarial Networks](http://arxiv.org/abs/1406.2661), Goodfellow et al. 
   - [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks](http://arxiv.org/abs/1506.05751) Denton, Chintala, Szlam, Fergus. 
   - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](http://arxiv.org/abs/1511.06434) Radford, Metz, Chintala. 
 
 - **[Lec18](lec18.pdf)** Mar 31: Maximum Entropy Distributions. Self-supervised models (analogies, video prediction, text, word2vec).   
 
-  *recommended reading*
   -  [Graphical Models, Exponential Families and Variational Inference, chapter 3](https://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf) M. Wainwright, M. Jordan.
   -  [An Introduction to MCMC for Machine Learning](http://www.cs.ubc.ca/~arnaud/andrieu_defreitas_doucet_jordan_intromontecarlomachinelearning.pdf) Andrieu, de Freitas, Doucet, Jordan.
   -  [Stochastic relaxation, Gibbs distributions and the Bayesian Restoration of Images](http://www.stat.cmu.edu/~acthomas/724/Geman.pdf) Geman & Geman. 
