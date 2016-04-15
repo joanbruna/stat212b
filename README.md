@@ -175,13 +175,29 @@ by Joan Bruna, UC Berkeley, Statistics Department
   -  [Distributed Representations of Words and Phrases and their compositionality](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) Mikolov et al. 
   -  [word2vec Explained: deriving Mikolov et al's negative-sampling embedding method](http://arxiv.org/abs/1402.3722) Goldberg & Levy.
 
-- **Lec19** Apr 5: Non-convex Optimization. Stochastic Optimization. Generalization vs Redundancy. 
+- **Lec19** Apr 5: Self-supervised models (contd). Non-convex Optimization. Stochastic Optimization. 
+
+  - [Pixel Recurrent Neural Networks](http://arxiv.org/abs/1601.06759) A. van den Oord, N. Kalchbrenner, K. Kavukcuoglu.
+  - [The tradeoffs of Large Scale Learning](https://papers.nips.cc/paper/3323-the-tradeoffs-of-large-scale-learning.pdf) Bottou, Bousquet.
+  - [Introduction to Statistical Learning Theory](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/pdfs/pdf2819.pdf) Bousquet, Boucheron, Lugosi.
 
 - **Lec20** Apr 7:  Guest Lecture (S. Chintala, Facebook AI Research)
 
-- **Lec21** Apr 12: Batch Normalization, Dropout
+- **Lec21** Apr 12: Accelerated Gradient Descent, Regularization, Dropout.
 
-- **Lec22** Apr 14: Tensor Decompositions, Spin Glasses. Open Problems
+  - [Convex Optimization: Algorithms and Complexity](http://arxiv.org/abs/1405.4980) S. Bubeck
+  - [Optimization, Simons Big Data Boot Camp](https://simons.berkeley.edu/talks/optimization) B. Recht
+  - [The Zen of Gradient Descent](http://blog.mrtz.org/2013/09/07/the-zen-of-gradient-descent.html) M. Hardt.
+  - [Train Faster, Generalize Better: Stability of Stochastic Gradient Descent](http://arxiv.org/abs/1509.01240) M. Hardt, B. Recht, Y. Singer.
+  - [Dropout: a simple way to prevent neural networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf) Srivastava, Hinton et al.
+
+- **Lec22** Apr 14: Dropout (contd). Batch Normalization, Tensor Decompositions.
+
+  - [Dropout Training as Adaptive Regularization](http://papers.nips.cc/paper/4882-dropout-training-as-adaptive-regularization.pdf) Wager, Wang, Liang.
+  - [Batch Normalization: accelerating Deep Network Training by Reducing internal covariate shift](http://arxiv.org/abs/1502.03167) Ioffe, Szegedy. 
+  - [Global Optimality in Tensor Factorization, Deep Learning and Beyond](http://arxiv.org/pdf/1506.07540.pdf) Haefflele, Vidal.
+  - [On the expressive power of Deep Learning: a tensor analysis](http://arxiv.org/abs/1509.05009) Cohen, Sharir, Shashua.
+  - [Beating the Perils of non-convexity: Guaranteed Training of Neural Networks using Tensor methods](http://arxiv.org/abs/1506.08473) Janzamin, Sedghi, Anandkumar. 
 
 - **Lec23** Apr 19: Guest Lecture (Y. Dauphin, Facebook AI Research)
 
