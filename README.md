@@ -44,7 +44,7 @@ by Joan Bruna, UC Berkeley, Statistics Department
 - **[Lec2](lec2.pdf)** Jan 21: Representations for Recognition : stability, variability. 
  Kernel approaches / Feature extraction. Properties. 
 
-  - [Elements of Statistical Learning, chapt. 12](http://statweb.stanford.edu/~tibs/ElemStatLearn/), Hastie, Tibshirani, Friedman.
+  - [Elements of Statistical Learning, chapt. 12](https://web.stanford.edu/~hastie/ElemStatLearn/), Hastie, Tibshirani, Friedman.
   - [Understanding Deep Convolutional Networks](http://arxiv.org/pdf/1601.04920.pdf), S. Mallat.
  
 - **[Lec3](lec3.pdf)** Jan 26: Groups, Invariants and Filters.
